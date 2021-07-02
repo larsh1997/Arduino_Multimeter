@@ -4,7 +4,7 @@
  * 
  * @autor:        Lars Hansmann
  * @datum:        20.06.2021
- * @matrikel-Nr:  15414064
+ * 
  *
  *Compelete implementation for an multimeter, based on the Arduino Uno.
  *Measured units are voltage, current and power. They get displayed on an 16x2 LCD.
